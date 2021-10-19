@@ -7,7 +7,7 @@
   <groupId>com.learnmaven</groupId>
   <artifactId>mavendemo-webapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>war</packaging> <!--some changes -->
 
   <name>mavendemo-webapp Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
